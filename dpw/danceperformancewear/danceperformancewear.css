@@ -1,0 +1,14 @@
+body {
+  color: #FFFFFF; /* Dark Gray */
+  background-color: #000000;
+  font-size: 18px;
+}
+h1 {
+  font-size: 2em;
+}
+h3 {
+  font-size: 1.6em;
+}
+a {
+text-decoration: none; font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}

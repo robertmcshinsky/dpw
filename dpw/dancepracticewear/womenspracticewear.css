@@ -1,0 +1,28 @@
+body {
+  color: black; /* Dark Gray */
+  background-color: #FFEFD5;
+  font-size: 18px;
+}
+h1 {
+  font-size: 4em;
+  text-align: center;
+}
+h2 {
+  font-size: 1.6em;
+  text-align: center;
+   padding: 20px 10px;
+}
+h3 {
+  font-size: .6em;
+}
+a {
+text-decoration: none;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+img {
+  display: block;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
